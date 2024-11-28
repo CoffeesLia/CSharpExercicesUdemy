@@ -1,0 +1,5 @@
+C:\Users\SE66163\Downloads\central\central\UdemyProject\CSharpExercicesUdemy\obj\Debug\net6.0\CentralProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE66163\Downloads\central\central\UdemyProject\CSharpExercicesUdemy\obj\Debug\net6.0\CentralProject.AssemblyInfoInputs.cache
+C:\Users\SE66163\Downloads\central\central\UdemyProject\CSharpExercicesUdemy\obj\Debug\net6.0\CentralProject.AssemblyInfo.cs
+C:\Users\SE66163\Downloads\central\central\UdemyProject\CSharpExercicesUdemy\obj\Debug\net6.0\CentralProject.csproj.CoreCompileInputs.cache
+C:\Users\SE66163\Downloads\central\central\UdemyProject\CSharpExercicesUdemy\obj\Debug\net6.0\CentralProject.sourcelink.json
